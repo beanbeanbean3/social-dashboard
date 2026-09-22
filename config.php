@@ -1,0 +1,9 @@
+<?php
+return [
+    'facebook_page_id' => '758812880654928',
+    'facebook_token'   => 'EAAMf9Li1pWIBQwiMDKCZAY4XmBxZB2Ow7elZApaIlpMt9uyA9hH5wETSlkOHD7I6ctQmqNvfWyk1dyBUyIaSmOWDPxbsW33FIxXtEo6OgBK5GXJZB8MFyh5B2vj017Ml6JtynRSAax0JyByuvB8nwe45ZA5l8xQGKldO1ZArTYCZBOm5D8Pl8ZAM2u0VzuTyrgG7oAZDZD',
+
+    'instagram_id'     => '17841480599966804',
+    'instagram_token'  => 'EAAMf9Li1pWIBQwiMDKCZAY4XmBxZB2Ow7elZApaIlpMt9uyA9hH5wETSlkOHD7I6ctQmqNvfWyk1dyBUyIaSmOWDPxbsW33FIxXtEo6OgBK5GXJZB8MFyh5B2vj017Ml6JtynRSAax0JyByuvB8nwe45ZA5l8xQGKldO1ZArTYCZBOm5D8Pl8ZAM2u0VzuTyrgG7oAZDZD'
+];
+
